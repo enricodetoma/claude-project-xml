@@ -35,7 +35,7 @@ pip install tkinterdnd2
 
 Run the application:
 ```bash
-python xmlproj_builder.py
+python claude-project-xml.py
 ```
 
 ### Adding Files
